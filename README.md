@@ -3,6 +3,8 @@
 To work with ulp of esp32 in the Arduino IDE you will need to use the 4.2 development branch of Arduino-ESP32
 please see instruction at https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md
 
+After cloning
+
    1. Start Git GUI
    2. Open Recent Repository
    3. Select Branch
